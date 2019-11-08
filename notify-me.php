@@ -1,4 +1,5 @@
 <?php
+require('.env')
 /*
 
 This script handles AJAX requests from "Send me an email when it's done" form
